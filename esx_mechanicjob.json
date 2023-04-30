@@ -2,5 +2,5 @@
 	"script": "esx_mechanicjob",
     "version": "1.9.4",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# fix\n\t- Out vehicule from type 1 garage\n# add\n\t- config faction server function to add/remove key\n\t- config faction client function to add/remove key & persistance vehicule"
+	"msg": "# Add\n\t- Added update notifications\n\t- Fully customizable notifications"
 }
