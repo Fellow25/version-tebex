@@ -1,5 +1,5 @@
 {
-	"script": "esx_esx_vehicle_seller",
+	"script": "esx_vehicle_seller",
   "version": "1.0",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Add\n\t- Added update notifications\n\t- Fully customizable notifications"
