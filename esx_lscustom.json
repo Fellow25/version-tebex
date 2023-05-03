@@ -1,6 +1,6 @@
 {
 	"script": "esx_lscustom",
-  	"version": "1.0.3",
+  	"version": "1.0.4",
 	"link": "Re download this resource on your keymaster",
-	"msg": "#  Add\n\t- Added option to change interior color"
+	"msg": "# Fix\n\t- Fixed check plate\n # Add\n\t- Added option to change interior color"
 }
