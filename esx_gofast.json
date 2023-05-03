@@ -1,6 +1,6 @@
 {
 	"script": "esx_gofast",
-  	"version": "1.0.1",
+  	"version": "1.0.2",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Fix\n\t- Fixed some bugs\n # Add\n\t- Added update notifications\n\t- Fully customizable notifications\n\t- Big unnecessary code cleanup"
 }
