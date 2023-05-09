@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.0.1",
+  	"version": "1.0.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
+	"msg": "# Fix\n\t- Fix show categories\n # Add\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
 }
