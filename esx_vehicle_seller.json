@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.0.2",
+  	"version": "1.0.3",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Fix show categories\n # Add\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
+	"msg": "# Fix\n\t- Fix show categories\n # Add\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
 }
