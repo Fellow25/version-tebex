@@ -1,6 +1,6 @@
 {
 	"script": "esx_sell_drugs",
- 	"version": "1.0.5",
+ 	"version": "1.0.6",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Fixed some bugs with % (attack, reject, call police)\n\t- Ban on interacting with npc set in config \n# Add\n\t- Useless code removal"
+	"msg": "# Fix\n\t- Fix bug with selling\n\t- Fixed some bugs with % (attack, reject, call police)\n\t- Ban on interacting with npc set in config \n# Add\n\t- Useless code removal"
 }
