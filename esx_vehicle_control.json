@@ -1,0 +1,6 @@
+{
+	"script": "esx_vehicle_control",
+  "version": "1.0.0",
+	"link": "Re download this resource on your keymaster",
+	"msg": "# Add\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Added update notifications\n\t- Fully customizable notifications"
+}
