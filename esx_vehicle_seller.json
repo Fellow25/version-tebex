@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.0.9",
+  	"version": "1.1.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Fix category\n\t- Fix show categories\n # Add\n\t- Auto selling\n\t- Added 'Press E'\n\t- Customizable textUI\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
+	"msg": "# Fix\n\t- Spawn vehicles\n # Add\n\t- Auto selling\n\t- Added 'Press E'\n\t- Customizable textUI\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
 }
