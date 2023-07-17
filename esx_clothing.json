@@ -1,6 +1,6 @@
 {
 	"script": "esx_clothing",
-  	"version": "1.0.8",
+  	"version": "1.0.9",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Fixed save clothes\n # Add\n\t- Added 'Press E'\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Added update notifications\n\t- Fully customizable notifications\n\t- Big unnecessary code cleanup"
+	"msg": "# Fix\n\t- Clean some code\n\t- Fixed save clothes\n # Add\n\t- Added 'Press E'\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Added update notifications\n\t- Fully customizable notifications\n\t- Big unnecessary code cleanup"
 }
