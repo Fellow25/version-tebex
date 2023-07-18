@@ -1,6 +1,5 @@
 {
 	"script": "esx_interact",
-  	"version": "1.0.0",
+  	"version": "1.0.1",
 	"link": "Re download this resource on your keymaster",
-	"msg": "First release"
-}
+	"msg": "# Add\n\t- Added Check if the player is in a vehicle before executing the sequence to raise the hands."}
