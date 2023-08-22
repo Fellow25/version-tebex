@@ -1,6 +1,6 @@
 {
 	"script": "esx_lscustom",
-  	"version": "1.1.2",
+  	"version": "1.1.3",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Fix\n\t- Clean some code\n\t- Price server side\n\t- Fix check plate\n\t- Fix engine price\n # Add\n\t- Add multiples zones\n\t- Customizable textUI\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Added option to change interior color"
 }
