@@ -1,6 +1,6 @@
 {
 	"script": "fw_admin",
-  "version": "1.0.2",
+  "version": "1.0.3",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Logs discord"
+	"msg": "# Add\n\t- Logs discord\n\t- Spectate mode"
 }
