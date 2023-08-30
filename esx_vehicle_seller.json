@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.2.1",
+  	"version": "1.2.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Clean some code\n # Add\n\t- Boats & Airplanes\n\t- Auto selling\n\t- Added 'Press E'\n\t- Customizable textUI\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Supports multiple inventories\n\t- Added update notifications\n\t- Fully customizable notifications"
+	"msg": "# Add\n\t- Add peds"
 }
