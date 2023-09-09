@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "1.0.4",
+  	"version": "1.0.5",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Fix\n\t- Some erros"
 }
