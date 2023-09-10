@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.3.2",
+  	"version": "1.3.3",
 	"link": "Re download this resource on your keymaster",
 	"msg": "#Fix\n\t- Improved optimization\n # Add\n\t- Add peds\n\t- Add key to lock car without using keys"
 }
