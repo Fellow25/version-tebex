@@ -1,6 +1,6 @@
 {
 	"script": "fw_admin",
-  	"version": "1.0.9",
+  	"version": "1.0.10",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Add\n\t- No clip\n\t- Bring back\n\t- Safezone\n\t- Show id\n\t- Logs discord\n\t- Spectate mode"
 }
