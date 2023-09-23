@@ -2,5 +2,5 @@
 	"script": "fw_admin",
   	"version": "1.1.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Fix noclip & godmod\n # Add\n\t- Spectate \n\t- No clip\n\t- Bring back\n\t- Safezone\n\t- Show id\n\t- Logs discord\n\t- Spectate mode"
+	"msg": "# Fix\n\t- Noclip & godmod\n # Add\n\t- Spectate \n\t- No clip\n\t- Bring back\n\t- Safezone\n\t- Show id\n\t- Logs discord\n\t- Spectate mode"
 }
