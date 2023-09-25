@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "1.1.8",
+  	"version": "1.1.9",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Sql\n # Add\n\t- Default garage \n\t- Save visual damages (broken parts & deformation)"
+	"msg": "# Fix\n\t- Car locked when it spawns"
 }
