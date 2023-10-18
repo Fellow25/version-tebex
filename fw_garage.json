@@ -2,5 +2,5 @@
 	"script": "fw_garage",
   	"version": "1.2.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Car locked when it spawns\n # Add\n\t- You can use "identifier" or "key" to detect whether you own the vehicle"
+	"msg": "# Fix\n\t- Car locked when it spawns\n # Add\n\t- You can use 'identifier' or 'key' to detect whether you own the vehicle"
 }
