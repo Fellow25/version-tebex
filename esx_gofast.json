@@ -1,0 +1,6 @@
+{
+	"script": "esx_gofast",
+  	"version": "2.0.1",
+	"link": "Re download this resource on your keymaster",
+	"msg": "# Fix\n\t- Improvement in optimization level\n\t- Clean some code\n # Add\n\t- Added 'Press E'\n\t- Customizable textUI"
+}
