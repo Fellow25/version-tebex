@@ -1,6 +1,6 @@
 {
 	"script": "esx_mechanicjob",
-    	"version": "1.0.6",
+    	"version": "1.0.7",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Fix\n\t- Clean some code\n # Add\n\t- Added 'Press E'\n\t- Customizable textUI\n\t- Display of markers and text for specific zones in the game based on player proximity and requirements. It provides real-time visual information and interaction to the player\n\t- Securing triggers to prevent cheating\n\t- Replaced the TranslateCap function with the locale of Overextended\n\t- Fully customizable notifications"
 }
