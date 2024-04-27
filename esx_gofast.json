@@ -1,6 +1,6 @@
 {
 	"script": "esx_gofast",
-  	"version": "2.0.3",
+  	"version": "2.0.4",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Fix\n\t- Improvement in optimization level\n\t- Clean some code\n # Add\n\t- Custom export call police"
 }
