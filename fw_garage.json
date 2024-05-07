@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "1.2.5",
+  	"version": "1.2.6",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Save trailer"
+	"msg": "# Add\n\t- Save trailer\n #  Fix\n\t- Selling car with item"
 }
