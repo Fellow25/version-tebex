@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.4.7",
+  	"version": "1.4.8",
 	"link": "Re download this resource on your keymaster",
-	"msg": "#Fix\n\t- Optimization & synchronization\n # Add\n\t- Add peds\n\t- Add key to lock car without using keys"
+	"msg": "#Fix\n\t- FW Garage compatibility"
 }
