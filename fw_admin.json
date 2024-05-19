@@ -1,6 +1,6 @@
 {
 	"script": "fw_admin",
-  	"version": "1.2.4",
+  	"version": "1.2.5",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Permissions for each option\n #Fix\n\t- Jail timer"
+	"msg": "#Fix\n\t- FW Garage compatibility"
 }
