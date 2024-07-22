@@ -1,6 +1,6 @@
 {
 	"script": "esx_vehicle_seller",
-  	"version": "1.4.9",
+  	"version": "1.5.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "#Fix\n\t- FW Garage compatibility"
+	"msg": "# Fix\n\t- Compatibility with OneSync"
 }
