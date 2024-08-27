@@ -1,6 +1,6 @@
 {
 	"script": "fw_properties",
-  	"version": "1.0.1",
+  	"version": "1.0.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "First release"
+  	"msg": "# Add\n\t- Payment verification before creating properties or hotels"
 }
