@@ -1,5 +1,6 @@
 {
 	"script": "esx_interact",
-  	"version": "1.0.2",
+  	"version": "1.0.3",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Fix handcuff\n\t- Added Check if the player is in a vehicle before executing the sequence to raise the hands."}
+	"msg": "# Français \n\t- Pour recevoir la nouvelle mise à jour, ouvrez un ticket sur le Discord. \n# English\n\t- To receive the new update, please open a ticket on Discord. \n# Discord\n\t- https://discord.gg/8DCMzdpe96"
+}
