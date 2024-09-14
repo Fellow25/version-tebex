@@ -1,6 +1,6 @@
 {
 	"script": "esx_gofast",
-  	"version": "2.0.4",
+  	"version": "2.0.5",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Improvement in optimization level\n\t- Clean some code\n # Add\n\t- Custom export call police"
+	"msg": "# Français \n\t- Pour recevoir la nouvelle mise à jour, ouvrez un ticket sur le Discord. \n# English\n\t- To receive the new update, please open a ticket on Discord. \n# Discord\n\t- https://discord.gg/8DCMzdpe96"
 }
