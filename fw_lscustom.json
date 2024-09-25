@@ -1,6 +1,6 @@
 {
 	"script": "fw_lscustom",
-  "version": "1.2.2",
+  	"version": "1.3.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "First release"
+  	"msg": "# Add\n\t- RGB Colors"
 }
