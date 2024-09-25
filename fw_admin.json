@@ -1,6 +1,6 @@
 {
 	"script": "fw_admin",
-  	"version": "1.3.1",
+  	"version": "1.3.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Compatibility with OneSync\n # Add\n\t- Compatibility with vSyncR & cd_easytime"
+	"msg": "# Fix\n\t- NoClip (you need TX Admin\n # Add\n\t-RGB Colors for vehicles"
 }
