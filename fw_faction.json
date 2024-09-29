@@ -1,6 +1,6 @@
 {
 	"script": "fw_faction",
-  "version": "1.0.0",
+  "version": "1.0.1",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- First release"
+	"msg": "# Add\n\t- Compatibility with "fw_garage""
 }
