@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "1.3.2",
+  	"version": "2.0.1",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Compatibility with OneSync"
+	"msg": "# Add\n\t- Functional persistence"
 }
