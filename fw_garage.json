@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "2.0.1",
+  	"version": "2.0.2",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Add\n\t- Functional persistence"
 }
