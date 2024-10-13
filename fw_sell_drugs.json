@@ -1,6 +1,6 @@
 {
 	"script": "fw_sell_drugs",
-  "version": "1.0.8",
+  	"version": "1.0.9",
 	"link": "Re download this resource on your keymaster",
-	"msg": "First release"
+	"msg": "# Fix\n\t- Some bugs"
 }
