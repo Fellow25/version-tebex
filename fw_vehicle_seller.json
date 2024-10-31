@@ -1,6 +1,6 @@
 {
 	"script": "fw_vehicle_seller",
-  "version": "2.0.2",
+  "version": "2.0.3",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Fake plates"
+	"msg": "# Add\n\t- Fake plates & Containers (You can put your keys in the key ring)"
 }
