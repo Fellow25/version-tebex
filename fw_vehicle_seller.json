@@ -1,6 +1,6 @@
 {
 	"script": "fw_vehicle_seller",
-  "version": "2.0.5",
+  "version": "2.0.6",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Spawn vehicle server side"
+	"msg": "# Fix\n\t- Spawn ped (error on first spawn)"
 }
