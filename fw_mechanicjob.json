@@ -1,6 +1,6 @@
 {
 	"script": "fw_mechanicjob",
-  	"version": "1.2.5",
+  	"version": "1.2.9",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Improve target"
+	"msg": "# Fix\n\t- Spawn ped (error on first spawn)"
 }
