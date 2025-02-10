@@ -1,6 +1,6 @@
 {
 	"script": "fw_properties",
-  	"version": "1.0.6",
+  	"version": "1.0.7",
 	"link": "Re-download this resource on your keymaster",
-  	"msg": "# Add\n\t- Multiple doors"
+  	"msg": "# Fix\n\t- Improv code sever side for more optimisation"
 }
