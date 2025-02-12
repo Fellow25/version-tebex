@@ -1,6 +1,6 @@
 {
 	"script": "fw_vehicle_seller",
-  "version": "2.0.6",
+  "version": "2.0.7",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Fix\n\t- Spawn ped (error on first spawn)"
+	"msg": "# Add\n\t- Auto shop only for job"
 }
