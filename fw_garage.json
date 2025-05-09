@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "2.0.6",
+  	"version": "3.0.0",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Fake plates & Containers (You can put your keys in the key ring)"
+	"msg": "# Add\n\t- Possibility to teleport to the car\n\t- Parking car in garage in front of a vast list\n\t- Plate or proprietary filtration\n\n # New\n\t - For better immersion add the 'VehicleDeformation' script"
 }

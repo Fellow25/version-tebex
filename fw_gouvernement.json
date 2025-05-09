@@ -1,6 +1,6 @@
 {
 	"script": "fw_gouvernement",
-  "version": "1.1.6",
+  	"version": "1.1.7",
 	"link": "Re download this resource on your keymaster",
-	"msg": "First release"
+	"msg": "# Add\n\t- Filtering players by keywords"
 }
