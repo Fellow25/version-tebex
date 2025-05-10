@@ -1,6 +1,6 @@
 {
 	"script": "fw_vehicle_seller",
-  "version": "2.0.7",
+  	"version": "2.0.8",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Auto shop only for job"
+	"msg": "# Fix\n\t- Showroom: You can now delete a vehicle with a dedicated button"
 }
