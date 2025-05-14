@@ -1,6 +1,4 @@
 {
 	"script": "fw_admin",
-  	"version": "1.3.7",
-	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Filtering players by keywords"
+  	"version": "1.3.8"
 }
