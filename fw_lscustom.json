@@ -1,6 +1,6 @@
 {
 	"script": "fw_lscustom",
-  	"version": "1.4.0",
+  	"version": "1.4.1",
 	"link": "Re download this resource on your keymaster",
-  	"msg": "# Add\n\t- RGB Colors"
+  	"msg": "# Add\n\t- Now you have the possibility to apply different types of colors, such as matte, pearl, chrome"
 }
