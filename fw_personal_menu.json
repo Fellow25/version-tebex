@@ -1,6 +1,6 @@
 {
 	"script": "fw_personal_menu",
-  	"version": "1.0.1",
+  	"version": "1.0.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Config for personal settings"
+	"msg": "# Add\n\t- Vehicle Controls"
 }
