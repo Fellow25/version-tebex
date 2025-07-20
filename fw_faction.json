@@ -1,6 +1,6 @@
 {
 	"script": "fw_faction",
-  "version": "1.0.1",
+  "version": "1.0.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Compatibility with fw_garage"
+	"msg": "# Add\n\t- Ability to pass gang lead to a gang member"
 }
