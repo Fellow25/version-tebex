@@ -1,6 +1,6 @@
 {
 	"script": "fw_garage",
-  	"version": "3.0.0",
+  	"version": "3.0.2",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Possibility to teleport to the car\n\t- Parking car in garage in front of a vast list\n\t- Plate or proprietary filtration\n\n # New\n\t - For better immersion add the 'VehicleDeformation' script"
+	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.0)"
 }
