@@ -1,4 +1,6 @@
 {
 	"script": "fw_admin",
-  	"version": "1.3.8"
+  	"version": "1.3.9",
+	"link": "Re download this resource on your keymaster",
+	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.0)"
 }
