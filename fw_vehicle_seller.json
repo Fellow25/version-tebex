@@ -1,6 +1,6 @@
 {
 	"script": "fw_vehicle_seller",
-  	"version": "2.1.0",
+  	"version": "2.1.1",
 	"link": "Re download this resource on your keymaster",
 	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.0)\n\t- Added a system where an NPC drives the vehicle to your location"
 }
