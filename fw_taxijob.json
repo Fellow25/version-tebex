@@ -2,5 +2,5 @@
 	"script": "fw_taxijob",
   	"version": "1.0.1",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.3)\n\t- Vehicle plate generator reworked for flexible and consistent formatting"
+	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V1.13.3)\n\t- Vehicle plate generator reworked for flexible and consistent formatting"
 }
