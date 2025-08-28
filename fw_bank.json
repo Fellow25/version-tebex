@@ -1,6 +1,6 @@
 {
-	"script": "fw_bank",
-  	"version": "1.0.4",
-	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.0)\n\t- Added IBAN (you need put sql)"
+    "script": "fw_bank",
+    "version": "2.0.0",
+    "link": "Re-download this resource on your keymaster",
+    "msg": "# Add\n\t- Added automatic payments with management interface\n\t- Added Discord logs via ESX\n\t- Added IBAN generation when a player creates their character (make sure to update your SQL)"
 }
